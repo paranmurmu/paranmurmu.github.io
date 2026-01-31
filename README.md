@@ -64,8 +64,8 @@
 
 <section>
   <h2>Contact</h2>
-  <p>Email: your@email.com<br>
-     Location: West Bengal, India
+  <p>Email: poranmurmu07@email.com<br>
+     Location: Gopalpur, Karandighi, U/D, West Bengal, India
   </p>
 </section>
 
