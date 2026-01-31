@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+<head><meta name="google-site-verification" content="lZHjVS8Hk5DaSe68jS0KQcTWaMs76dsdvg-Aafj8Yhc" />
 <meta charset="UTF-8">
 <title>Paran Murmu – Indian Actor & Musical Artist</title>
 google-site-verification: google76e18a1f7eb8ec32.html
