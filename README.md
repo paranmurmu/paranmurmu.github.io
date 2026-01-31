@@ -4,7 +4,6 @@
 
 <meta name="description" content="Official website of Paran Murmu, Indian actor, musical artist, entrepreneur, and digital marketer.">
 
-<!-- 👇 GOOGLE VERIFICATION TAG YAHIN HONA CHAHIYE -->
 <meta google-site-verification: google76e18a1f7eb8ec32.html />
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
