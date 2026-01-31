@@ -1,11 +1,13 @@
-<!DOCTYPE html>
-<html lang="en">google-site-verification: google76e18a1f7eb8ec32.html
-<head><meta name="google-site-verification" content="lZHjVS8Hk5DaSe68jS0KQcTWaMs76dsdvg-Aafj8Yhc" />
+<head>
 <meta charset="UTF-8">
 <title>Paran Murmu – Indian Actor & Musical Artist</title>
-google-site-verification: google76e18a1f7eb8ec32.html
+
 <meta name="description" content="Official website of Paran Murmu, Indian actor, musical artist, entrepreneur, and digital marketer.">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">google-site-verification: google76e18a1f7eb8ec32.html
+
+<!-- 👇 GOOGLE VERIFICATION TAG YAHIN HONA CHAHIYE -->
+<meta google-site-verification: google76e18a1f7eb8ec32.html />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
 
