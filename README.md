@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Paran Murmu – Indian Actor & Musical Artist</title>
-
+google-site-verification: google76e18a1f7eb8ec32.html
 <meta name="description" content="Official website of Paran Murmu, Indian actor, musical artist, entrepreneur, and digital marketer.">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
