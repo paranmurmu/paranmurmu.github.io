@@ -92,7 +92,7 @@ footer{
 
   <!-- PROFILE PHOTO -->
   <div class="profile-photo">
-    <img src="profile.jpg" alt="Paran Murmu">
+    <img src=https://avatars.githubusercontent.com/u/118932451?v=4 alt="Paran Murmu">
   </div>
 </header>
 
