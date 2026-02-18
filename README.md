@@ -141,7 +141,7 @@ footer{
 <section>
   <h2>Contact</h2>
   <p>
-    Email: your@email.com<br>
+    Email: poranmurmu07@gmail.com<br>
     Location: West Bengal, India
   </p>
 </section>
